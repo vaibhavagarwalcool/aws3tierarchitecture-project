@@ -148,7 +148,7 @@ git clone https://github.com/avizway1/aws_3tier_architecture.git
 
    ```bash
    cd ~/
-   aws s3 cp s3://3tierproject-avinash/application-code/app-tier/ app-tier --recursive
+   aws s3 cp s3://3tierproject-vaibhav/application-code/app-tier/ app-tier --recursive
 
    cd ~/app-tier
    npm install
@@ -191,7 +191,7 @@ git clone https://github.com/avizway1/aws_3tier_architecture.git
    nvm use 16
 
    cd ~/
-   aws s3 cp s3://3tierproject-avinash/application-code/web-tier/ web-tier --recursive
+   aws s3 cp s3://3tierproject-vaibhav/application-code/web-tier/ web-tier --recursive
 
    cd ~/web-tier
    npm install
@@ -207,7 +207,7 @@ git clone https://github.com/avizway1/aws_3tier_architecture.git
    ls
 
    sudo rm nginx.conf
-   sudo aws s3 cp s3://3tierproject-avinash/application-code/nginx.conf .
+   sudo aws s3 cp s3://3tierproject-vaibhav/application-code/nginx.conf .
 
    sudo service nginx restart
 
