@@ -1,4 +1,3 @@
-# aws3tierarchitecture-project
 # AWS Three-Tier Architecture Project
 
 ## Overview
