@@ -88,7 +88,7 @@ This project demonstrates a three-tier architecture on AWS, designed to ensure h
 ### Clone the Git Repository
 
 ```bash
-git clone https://github.com/avizway1/aws_3tier_architecture.git
+git clone https://github.com/vaibhav/aws_3tier_architecture.git
 ```
 
 ### Application Server Setup
@@ -135,7 +135,7 @@ git clone https://github.com/avizway1/aws_3tier_architecture.git
 5. **Install and Configure Node.js and PM2**:
 
    ```bash
-   curl -o- https://raw.githubusercontent.com/avizway1/aws_3tier_architecture/main/install.sh | bash
+   curl -o- https://raw.githubusercontent.com/vaibhav/aws_3tier_architecture/main/install.sh | bash
    source ~/.bashrc
 
    nvm install 16
@@ -185,7 +185,7 @@ git clone https://github.com/avizway1/aws_3tier_architecture.git
    Install Node.js and Nginx on the web tier:
 
    ```bash
-   curl -o- https://raw.githubusercontent.com/avizway1/aws_3tier_architecture/main/install.sh | bash
+   curl -o- https://raw.githubusercontent.com/vaibhav/aws_3tier_architecture/main/install.sh | bash
    source ~/.bashrc
    nvm install 16
    nvm use 16
