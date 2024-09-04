@@ -88,7 +88,7 @@ This project demonstrates a three-tier architecture on AWS, designed to ensure h
 ### Clone the Git Repository
 
 ```bash
-git clone https://github.com/vaibhav/aws_3tier_architecture.git
+git clone https://github.com/vaibhavagarwalcool/aws3tierarchitecture-project.git
 ```
 
 ### Application Server Setup
